@@ -1,3 +1,3 @@
-# Py2GD
+# Discontinued!
 
-- An awesome mod! (will update later for doc)
+- This mod will be fully rewritten and rebranded under a different name.
